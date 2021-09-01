@@ -1,0 +1,23 @@
+.tarefa{
+    width: 300px;
+}
+
+.conclusao{
+    width: 100px;
+}
+
+.acao{
+    width: 195px;
+}
+
+.btnConcluir{
+    margin-right: 5px;
+}
+
+.btnExcluir{
+    margin-right: 5px;
+}
+
+.inputTitulo{
+    margin-right: 5px;
+}
